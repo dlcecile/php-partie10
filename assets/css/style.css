@@ -1,0 +1,12 @@
+
+.customrow{
+        border:5px solid white; 
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+}
+   
+.form-control{
+    border-bottom: 5px solid white;
+    background-color: white;
+}
